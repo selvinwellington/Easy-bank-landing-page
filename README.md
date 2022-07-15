@@ -25,12 +25,12 @@ Live Site URL: https://selvin-Easybank.netlify.app/
 ## My process
 
 Built with
-Semantic HTML5 markup
-CSS custom properties
-Flexbox
-CSS Grid
-JavaScript
-Mobile-first workflow
+ - Semantic HTML5 markup
+ - CSS custom properties
+ - Flexbox
+ - CSS Grid
+ - JavaScript
+ - Mobile-first workflow
 
 ## Editor:
 
